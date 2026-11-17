@@ -14,5 +14,4 @@ I mostly work with **Laravel, React and TypeScript**, and I care about software 
   <img src="https://skillicons.dev/icons?i=laravel,php,react,ts,tailwind,vite,mysql,git,linux" alt="Tech icons">
 </p>
 
-Bio:
-Full-stack developer · Laravel, React & TypeScript · Building web apps for real businesses.
+
