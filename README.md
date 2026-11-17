@@ -1,7 +1,7 @@
 
 # Hi, I'm Azis 👋
 
-Full-stack developer building web apps for real businesses: the kind of systems staff use every day to get their work done.
+Full-stack developer building systems, the kind of systems people use every day to get their work done.
 
 I mostly work with **Laravel, React and TypeScript**, and I care about software that's simple for the people using it, not just the people building it.
 
